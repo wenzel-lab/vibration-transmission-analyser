@@ -4,8 +4,8 @@ Building advanced microscopy setups often begins with addressing vibration dampi
 
 In order to measure even small transmission percentages, we start with a cheap (about 100$) but powerful surface speaker (100W) from AliExpress that can generate strong vibrations on different surfaces. We bought [this model](https://es.aliexpress.com/item/1005006213936265.html?spm=a2g0o.order_list.order_list_main.85.6083194dRhRy4s&gatewayAdapt=glo2esp) but similar devices are available on the market and should work the same. If you are in Santiago Chile, feel free to borrow it from us.
 
-<p align="centre">
-<img src="./images/speaker.jpg" width="300">
+<p align="left">
+<img src="./images/speaker.jpg" width="400">
 </p>
 
 There are many phone apps avaialble to use the sufisticated sentitive sensors of the phone to measure vibrations. We removed the phone casing for this purpose to avoid loss of sensitivity and tried the following app(s):
